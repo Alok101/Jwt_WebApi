@@ -1,0 +1,14 @@
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\ApiService1.deps.json
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\ApiService1.runtimeconfig.json
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\ApiService1.runtimeconfig.dev.json
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\ApiService1.dll
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\ApiService1.pdb
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.csprojAssemblyReference.cache
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.csproj.CoreCompileInputs.cache
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.RazorAssemblyInfo.cache
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.RazorAssemblyInfo.cs
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.AssemblyInfoInputs.cache
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.AssemblyInfo.cs
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.RazorTargetAssemblyInfo.cache
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.dll
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.pdb
