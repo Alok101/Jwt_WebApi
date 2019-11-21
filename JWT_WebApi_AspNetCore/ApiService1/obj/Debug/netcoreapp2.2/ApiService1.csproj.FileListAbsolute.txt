@@ -12,3 +12,6 @@ E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Deb
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.RazorTargetAssemblyInfo.cache
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.dll
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.pdb
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\OuthServer.dll
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\bin\Debug\netcoreapp2.2\OuthServer.pdb
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\ApiService1\obj\Debug\netcoreapp2.2\ApiService1.csproj.CopyComplete

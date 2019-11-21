@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using OuthServer;
 
 namespace ApiService1.Controllers
 {
@@ -14,7 +15,8 @@ namespace ApiService1.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            GenerateToken generateToken = new GenerateToken();
+            return new string[] { generateToken.GenerateJwtToken("10")};
         }
 
         // GET api/values/5

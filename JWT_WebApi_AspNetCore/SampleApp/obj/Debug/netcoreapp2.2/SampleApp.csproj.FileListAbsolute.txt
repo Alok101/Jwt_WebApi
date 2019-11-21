@@ -27,3 +27,4 @@ E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\SampleApp\obj\Debug
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.dll
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.pdb
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csproj.CopyComplete
+E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\SampleApp\obj\Debug\netcoreapp2.2\SampleApp.csprojAssemblyReference.cache
