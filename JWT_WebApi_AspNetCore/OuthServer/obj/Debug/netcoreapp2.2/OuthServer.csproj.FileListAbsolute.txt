@@ -1,7 +1,6 @@
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\bin\Debug\netcoreapp2.2\OuthServer.deps.json
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\bin\Debug\netcoreapp2.2\OuthServer.dll
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\bin\Debug\netcoreapp2.2\OuthServer.pdb
-E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\obj\Debug\netcoreapp2.2\OuthServer.csproj.CoreCompileInputs.cache
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\obj\Debug\netcoreapp2.2\OuthServer.AssemblyInfoInputs.cache
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\obj\Debug\netcoreapp2.2\OuthServer.AssemblyInfo.cs
 E:\Programming_Practice\Jwt\Jwt_WebApi\JWT_WebApi_AspNetCore\OuthServer\obj\Debug\netcoreapp2.2\OuthServer.dll

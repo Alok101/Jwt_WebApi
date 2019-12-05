@@ -7,19 +7,20 @@ using System.Text;
 
 namespace OuthServer
 {
-    public class GenerateToken
+    public static class GenerateToken
     {
-        private string key = "tUB38cEJIoZsgtr3MMu3C5SzJYKfXAaKInaobHXWXdlUT9qzUJmxCaH3mgD3X99";
-        public string GenerateJwtToken(string userId)
+        public static string GenerateJwtToken(string userId)
         {
             if (userId == null)
                 return null;
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(SecretKey.Key));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
             var tokenDescriptor = new SecurityTokenDescriptor()
             {
+                Audience="www.yaanson.com",
+                Issuer="www.yaanson.com",
                 Subject = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, userId) }),
-                Expires = DateTime.Now.AddMinutes(120),
+                Expires = DateTime.Now.AddMinutes(10),
                 SigningCredentials = credentials
             };
             var token = new JwtSecurityTokenHandler().CreateToken(tokenDescriptor);

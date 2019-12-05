@@ -15,8 +15,7 @@ namespace ApiService1.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            GenerateToken generateToken = new GenerateToken();
-            return new string[] { generateToken.GenerateJwtToken("10")};
+            return new string[] { ValidateToken.ValidateTokenServer(GenerateToken.GenerateJwtToken("10"))};
         }
 
         // GET api/values/5
